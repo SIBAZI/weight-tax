@@ -1,0 +1,45 @@
+div {
+  width: 100%;
+  padding: 8px 16px;
+  margin: 60px auto;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+label {
+  margin-top: 8px;
+}
+
+input {
+  margin: 0 auto;
+  width: 20%;
+  height: 2rem;
+  text-align: center;
+}
+
+#weeks {
+  margin: 0 auto;
+  width: 20%;
+  height: 2rem;
+  text-align: center;
+}
+
+button {
+  width: 20%;
+  height: 2.5em;
+  margin: 8px auto;
+  margin-top: 25px;
+  padding: 4px 0;
+  border-radius: 4px;
+  background-color: #ccc;
+  color: black;
+}
+
+button:hover {
+  opacity: .7;
+}
+
+#total {
+  margin: -20px auto;
+}
